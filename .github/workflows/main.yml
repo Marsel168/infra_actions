@@ -59,4 +59,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: marsel168/infra_actions:latest
+          tags: Marsel168/infra_actions:latest
